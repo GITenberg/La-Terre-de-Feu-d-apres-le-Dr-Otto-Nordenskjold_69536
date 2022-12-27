@@ -1,0 +1,32 @@
+_repo: La-Terre-de-Feu-d-apres-le-Dr-Otto-Nordenskjold_69536
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rabot, Charles
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '51300'
+    url: http://www.gutenberg.org/2009/agents/51300
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_Rabot
+    - https://fr.wikipedia.org/wiki/Charles_Rabot
+description: ''
+gutenberg_issued: '2022-12-13'
+identifiers:
+  gutenberg: '69536'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k884531m
+pgterms:marc905: 20220116113747rabot
+pgterms:marc906: '1902'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Pierre Lacaze and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: 'France: Hachette,1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Terre de Feu d'après le Dr Otto Nordenskjöld
+url: http://www.gutenberg.org/ebooks/69536
