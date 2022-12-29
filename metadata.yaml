@@ -1,5 +1,8 @@
 _repo: La-Terre-de-Feu-d-apres-le-Dr-Otto-Nordenskjold_69536
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69536-h/images/cover.jpg
 creator:
   author:
     agent_name: Rabot, Charles
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Charles_Rabot
     - https://fr.wikipedia.org/wiki/Charles_Rabot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69536#La-Terre-de-Feu-d-apres-le-Dr-Otto-Nordenskjold
 gutenberg_issued: '2022-12-13'
 identifiers:
   gutenberg: '69536'
